@@ -1,0 +1,30 @@
+_repo: The-Land-of-the-Miamis--13-An-Account-of-the-Struggle-to-Secure-Possession-of-the-North-West-__30244
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Barce, Elmore
+    birthdate: 1872
+    deathdate: 1945
+    gutenberg_agent_id: '34461'
+    url: http://www.gutenberg.org/2009/agents/34461
+description: ''
+gutenberg_issued: '2009-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30244'
+  lccn: '22015055'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F476'
+- !lcsh 'Indians of North America -- Wars -- 1750-1815'
+- !lcsh 'Miami Indians'
+- !lcsh 'Northwest, Old -- History'
+title: "The Land of the Miamis\r\nAn Account of the Struggle to Secure Possession\
+  \ of the North-West from the End of the Revolution until 1812"
+url: http://www.gutenberg.org/ebooks/30244
