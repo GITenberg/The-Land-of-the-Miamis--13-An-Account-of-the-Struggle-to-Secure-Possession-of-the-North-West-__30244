@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '34461'
     url: http://www.gutenberg.org/2009/agents/34461
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30244#The-Land-of-the-Miamis--13-An-Account-of-the-Struggle-to-Secure-Possession-of-the-North-West-_
 gutenberg_issued: '2009-10-13'
 gutenberg_type: Text
 identifiers:
